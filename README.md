@@ -6,6 +6,7 @@
 
 # How to use
 
+
 Run the setup file first and provide the Sql password Acccurately.
 After you are done with Setup run the main.py file and then get started .
 
