@@ -6,6 +6,7 @@
 
 # How to use
 
+First of all create a new folder named customers in this folder after you download.
 
 Run the setup file first and provide the Sql password Acccurately.
 After you are done with Setup run the main.py file and then get started .
