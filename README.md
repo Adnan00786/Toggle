@@ -20,7 +20,7 @@ After successfully sign-in in you will land in a logged in page, which displays 
 Here in the menu click on generate time table to generate your time table.
 
 
-Read synopsis.pdf file for more detailed info.
+**Read synopsis.pdf file for more detailed info.**
 
 # Further updates Coming soon...
 
