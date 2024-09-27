@@ -1,4 +1,4 @@
-# Toggle_updated
+# Toggle
 
 # Before using this program make sure you have the following softwares installed in your device
 1). Python installed with pip 
@@ -19,6 +19,8 @@ Customer ID will be provided Make sure you remember it.
 After successfully sign-in in you will land in a logged in page, which displays all your info.
 Here in the menu click on generate time table to generate your time table.
 
+
+Read synopsis.pdf file for more detailed info.
 
 # Further updates Coming soon...
 
